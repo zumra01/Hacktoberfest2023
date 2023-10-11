@@ -6,8 +6,8 @@
 
 <div align="center">
 
-<a href="https://github.com/ossamamehmood/hacktoberfest2023/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ossamamehmood/hacktoberfest2023" />
+<a href="https://github.com/ossamamehmood/Hacktoberfest2023/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ossamamehmood/Hacktoberfest2023" />
 </a>
   
   </div>
