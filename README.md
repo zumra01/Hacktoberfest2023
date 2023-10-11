@@ -12,9 +12,27 @@
   
   </div>
 
+## Maintainers of `Hacktoberfest 2023`
+
+<div align="center">
+
+<a href="https://github.com/ossamamehmood/hacktoberfest2023/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ossamamehmood/hacktoberfest2023" />
+</a>
+
+<a href="https://github.com/ossamamehmood/hacktoberfest2023/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ossamamehmood/hacktoberfest2023" />
+</a>
+
+<a href="https://github.com/ossamamehmood/hacktoberfest2023/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ossamamehmood/hacktoberfest2023" />
+</a>
+  
+  </div>
+
 ## This Project Is Perfect For Your First Pull Request
 
-🗣 **hacktoberfest 2023 encourages participation in the open-source community, which grows bigger every year.**
+🗣 **Hacktoberfest 2023 encourages participation in the open-source community, which grows bigger every year.**
 
 📢📢 **Register [here](https://hacktoberfest2023.digitalocean.com) for hacktoberfest2023 and make four pull requests (PRs) between October 1st-31st to grab free DIGITAL-SWAGS 🔥.**
 
@@ -29,21 +47,3 @@
 <a href="https://github.com/ossamamehmood/hacktoberfest2023/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ossamamehmood/hacktoberfest2023?color=2b9348" alt="License Badge"/></a>
 
 </div>
-
-
-
-## + Follow Me : } Quick Approval of Pull Request
-
-```py
-'''
-To get approval of the pull request much quicker and faster (`Follow Me`)🚀
-'''
-```
-
-  <a href="https://github.com/ossamamehmood">
-    <kbd>
-      <img src="https://avatars3.githubusercontent.com/ossamamehmood?size=100" width="100px;" alt=""/>
-    </kbd>
-    <br />
-    <sub><b>Ossama Mehmood</b></sub>
-  </a>
