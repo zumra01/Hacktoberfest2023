@@ -116,6 +116,16 @@
   </a>
 </td>
 
+  <td>  
+  <a href="https://github.com/axitchandora">
+    <kbd>
+      <img src="https://avatars3.githubusercontent.com/axitchandora?size=100" width="100px;" alt=""/>
+    </kbd>
+    <br />
+    <sub><b>Akshit Kumar Chandora</b></sub>
+  </a>
+</td>
+
 </tr>
 </table>
 
