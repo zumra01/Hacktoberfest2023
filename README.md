@@ -13,7 +13,10 @@
   </div>
 
 ## Our `Maintainers`
-<br>
+
+<table>
+<tr>
+<td>
   <a href="https://github.com/ossamamehmood">
     <kbd>
       <img src="https://avatars3.githubusercontent.com/ossamamehmood?size=100" width="100px;" alt=""/>
@@ -21,7 +24,9 @@
     <br />
     <sub><b>Ossama Mehmood</b></sub>
   </a>
-<br>
+</td>
+
+  <td>  
   <a href="https://github.com/swarajmhatre">
     <kbd>
       <img src="https://avatars3.githubusercontent.com/swarajmhatre?size=100" width="100px;" alt=""/>
@@ -29,7 +34,9 @@
     <br />
     <sub><b>Swaraj Mhatre</b></sub>
   </a>
-<br>
+</td>
+
+  <td>  
   <a href="https://github.com/abdulrehmanghub">
     <kbd>
       <img src="https://avatars3.githubusercontent.com/abdulrehmanghub?size=100" width="100px;" alt=""/>
@@ -37,6 +44,31 @@
     <br />
     <sub><b>Abdul Rehman</b></sub>
   </a>
+</td>
+
+  <td>  
+  <a href="https://github.com/mohitsaini07">
+    <kbd>
+      <img src="https://avatars3.githubusercontent.com/mohitsaini07?size=100" width="100px;" alt=""/>
+    </kbd>
+    <br />
+    <sub><b>Mohit Saini</b></sub>
+  </a>
+</td>
+
+  <td>  
+  <a href="https://github.com/Chifez">
+    <kbd>
+      <img src="https://avatars3.githubusercontent.com/Chifez?size=100" width="100px;" alt=""/>
+    </kbd>
+    <br />
+    <sub><b>Em_Dev</b></sub>
+  </a>
+</td>
+
+
+</tr>
+</table>
 
 ## This Project Is Perfect For Your First Pull Request
 
