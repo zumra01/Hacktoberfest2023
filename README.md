@@ -1,5 +1,5 @@
 # hacktoberfest 2023  `OPEN FIRST` Pull Request 🎉 
-![hacktoberfest2023 2023](https://github.com/ossamamehmood/hacktoberfest/raw/main/.github/logo.png)
+![hacktoberfest2023](https://github.com/ossamamehmood/hacktoberfest/raw/main/.github/logo.png)
 
 
 ## Contributors of `Hacktoberfest 2023`
