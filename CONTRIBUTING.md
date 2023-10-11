@@ -1,5 +1,9 @@
 # Contribution Rules📚:
 
+Before you start contributing, please read our [Code of Conduct](codeofconduct.md). We expect all contributors to follow these guidelines to ensure a positive and inclusive community.
+
+
+
 - You are allowed to make pull requests that break the rules. We just merge it ;)
 - Do NOT add any build steps e.g npm install (we want to keep this a simple static site)
 - Do NOT remove other content.
@@ -7,6 +11,24 @@
 - Add your name to the contributorsList file
 - Try to keep pull requests small to minimize merge conflicts
 
+<br>
+
+## FAQs
+If you have any questions, please check our [FAQs](faqs.md) for answers.
+
+
+
+## Language-Specific Folders
+
+We have organized the project into different folders for various programming languages and web development. Choose the folder that suits your skills and interests:
+
+- [Python](Python/)
+- [C](C/)
+- [C++](C++/)
+- [Java](Java/)
+- [Web Development](Web-Development/)
+
+If you are new to programming, we recommend starting with the "Web Development" folder.
 
 ## Getting Started 🤩🤗:
 
