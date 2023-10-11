@@ -157,8 +157,3 @@ If you have any questions, please check our [FAQs](Faqs.md) for answers.
   <img src="https://contrib.rocks/image?repo=ossamamehmood/Hacktoberfest2023" />
 </a>
 </div>
-
-
-
-
-<br>
