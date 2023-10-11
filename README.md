@@ -20,14 +20,6 @@
 
 </div>
 
-## Contributors of `Hacktoberfest 2023`
-
-<div align="center">
-<a href="https://github.com/ossamamehmood/Hacktoberfest2023/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ossamamehmood/Hacktoberfest2023" />
-</a>
-</div>
-
 ## Our `Maintainers`
 
 <table>
@@ -126,3 +118,11 @@
 
 </tr>
 </table>
+
+## Contributors of `Hacktoberfest 2023`
+
+<div align="center">
+<a href="https://github.com/ossamamehmood/Hacktoberfest2023/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ossamamehmood/Hacktoberfest2023" />
+</a>
+</div>
