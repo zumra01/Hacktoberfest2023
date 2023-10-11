@@ -2,7 +2,7 @@
 ![hacktoberfest2023](https://github.com/ossamamehmood/hacktoberfest/raw/main/.github/logo.png)
 
 
-## This Project Is Perfect For Your First Pull Request
+## This Project Is Perfect For Your Pull Request
 
 🗣 **Hacktoberfest 2023 encourages participation in the open-source community, which grows bigger every year.**
 
