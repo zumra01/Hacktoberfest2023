@@ -14,8 +14,6 @@
 
 ## Our `Maintainers`
 
-<div align="center">
-
   <a href="https://github.com/ossamamehmood">
     <kbd>
       <img src="https://avatars3.githubusercontent.com/ossamamehmood?size=100" width="100px;" alt=""/>
@@ -31,8 +29,6 @@
     <br />
     <sub><b>Ossama Mehmood</b></sub>
   </a>
-
-  </div>
 
 ## This Project Is Perfect For Your First Pull Request
 
