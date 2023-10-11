@@ -72,8 +72,6 @@
   </a>
 </td>
 
-<tr>
-
   <td>  
   <a href="https://github.com/Chifez">
     <kbd>
@@ -83,6 +81,8 @@
     <sub><b>Em_Dev</b></sub>
   </a>
 </td>
+
+<tr>
 
   <td>  
   <a href="https://github.com/dharmraj617">
