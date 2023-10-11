@@ -2,7 +2,7 @@
 ![hacktoberfest2023 2023](https://github.com/ossamamehmood/hacktoberfest2023/raw/main/.github/logo.png)
 
 
-## Contributors of `hacktoberfest 2023`
+## Contributors of `Hacktoberfest 2023`
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 ## This Project Is Perfect For Your First Pull Request
 
-🗣 **hacktoberfest2023 encourages participation in the open-source community, which grows bigger every year.**
+🗣 **hacktoberfest 2023 encourages participation in the open-source community, which grows bigger every year.**
 
 📢📢 **Register [here](https://hacktoberfest2023.digitalocean.com) for hacktoberfest2023 and make four pull requests (PRs) between October 1st-31st to grab free DIGITAL-SWAGS 🔥.**
 
