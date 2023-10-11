@@ -66,6 +66,45 @@
   </a>
 </td>
 
+  <td>  
+  <a href="https://github.com/dharmraj617">
+    <kbd>
+      <img src="https://avatars3.githubusercontent.com/dharmraj617?size=100" width="100px;" alt=""/>
+    </kbd>
+    <br />
+    <sub><b>Dharmraj Patil</b></sub>
+  </a>
+</td>
+
+  <td>  
+  <a href="https://github.com/itsaakif">
+    <kbd>
+      <img src="https://avatars3.githubusercontent.com/itsaakif?size=100" width="100px;" alt=""/>
+    </kbd>
+    <br />
+    <sub><b>Aakif Mudel</b></sub>
+  </a>
+</td>
+
+  <td>  
+  <a href="https://github.com/shaman-004">
+    <kbd>
+      <img src="https://avatars3.githubusercontent.com/shaman-004?size=100" width="100px;" alt=""/>
+    </kbd>
+    <br />
+    <sub><b>Shaman M</b></sub>
+  </a>
+</td>
+
+  <td>  
+  <a href="https://github.com/kharshita590">
+    <kbd>
+      <img src="https://avatars3.githubusercontent.com/kharshita590?size=100" width="100px;" alt=""/>
+    </kbd>
+    <br />
+    <sub><b>kharshita590</b></sub>
+  </a>
+</td>
 
 </tr>
 </table>
