@@ -13,7 +13,7 @@
   </div>
 
 ## Our `Maintainers`
-
+<br>
   <a href="https://github.com/ossamamehmood">
     <kbd>
       <img src="https://avatars3.githubusercontent.com/ossamamehmood?size=100" width="100px;" alt=""/>
@@ -21,13 +21,21 @@
     <br />
     <sub><b>Ossama Mehmood</b></sub>
   </a>
-
+<br>
   <a href="https://github.com/swarajmhatre">
     <kbd>
       <img src="https://avatars3.githubusercontent.com/swarajmhatre?size=100" width="100px;" alt=""/>
     </kbd>
     <br />
     <sub><b>Swaraj Mhatre</b></sub>
+  </a>
+<br>
+  <a href="https://github.com/abdulrehmanghub">
+    <kbd>
+      <img src="https://avatars3.githubusercontent.com/abdulrehmanghub?size=100" width="100px;" alt=""/>
+    </kbd>
+    <br />
+    <sub><b>Abdul Rehman</b></sub>
   </a>
 
 ## This Project Is Perfect For Your First Pull Request
