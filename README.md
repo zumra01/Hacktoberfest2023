@@ -27,7 +27,7 @@
       <img src="https://avatars3.githubusercontent.com/swarajmhatre?size=100" width="100px;" alt=""/>
     </kbd>
     <br />
-    <sub><b>Ossama Mehmood</b></sub>
+    <sub><b>Swaraj Mhatre</b></sub>
   </a>
 
 ## This Project Is Perfect For Your First Pull Request
