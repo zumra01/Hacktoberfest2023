@@ -12,7 +12,7 @@
   
   </div>
 
-## Maintainers of `Hacktoberfest 2023`
+## Our `Maintainers`
 
 <div align="center">
 
