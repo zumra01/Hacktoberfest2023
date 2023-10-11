@@ -24,10 +24,14 @@
     <sub><b>Ossama Mehmood</b></sub>
   </a>
 
-<a href="https://github.com/ossamamehmood/hacktoberfest2023/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ossamamehmood/hacktoberfest2023" />
-</a>
-  
+  <a href="https://github.com/swarajmhatre">
+    <kbd>
+      <img src="https://avatars3.githubusercontent.com/swarajmhatre?size=100" width="100px;" alt=""/>
+    </kbd>
+    <br />
+    <sub><b>Ossama Mehmood</b></sub>
+  </a>
+
   </div>
 
 ## This Project Is Perfect For Your First Pull Request
