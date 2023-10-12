@@ -40,7 +40,7 @@ git clone https://github.com/fineanmol/Hacktoberfest2022.git
 ```
 - Navigate to project directory.
 ```terminal
-cd Hacktoberfest2022
+cd Hacktoberfest2023
 ```
 
 - Create a new Branch
@@ -48,7 +48,9 @@ cd Hacktoberfest2022
 ```markdown
 git checkout -b my-new-branch
 ```
-- Add your Name to `contributors/contributorsList.js`
+- Make your changes `folderName/fileName`
+
+- Add your changes
 ```markdown
 git add .
 ```
